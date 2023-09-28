@@ -11,9 +11,9 @@ import java.nio.file.Paths;
 import java.util.Iterator;
 
 public class Main {
-    private static final String IN_FILE_NAME = "SDOA_FY23P10W5.xlsx";
+    private static final String IN_FILE_NAME = "FY23P11W3.xlsx";
 
-    private static final String OUT_FILE_NAME = "SDOA_FY23P10W5_DEBUG.xlsx";
+    private static final String OUT_FILE_NAME = "DNM.xlsx";
     private static final String JS_SCRIPT = "sdoa.js";
 
     public static void allowBlanksOnExcel(Workbook workbook, int wide) {
